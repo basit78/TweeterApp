@@ -1,0 +1,16 @@
+.avatar-custom{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+.imgcontainer{
+  height:100px;
+  width: 100px;
+  margin: 0 auto;
+}
+
+#upload-image{
+  display: none;
+}
